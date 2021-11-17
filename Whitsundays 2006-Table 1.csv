@@ -1,0 +1,13 @@
+STATION_NAME;TRANSECT;STATION_ID;SAMPLE_TIME;LATITUDE;LONGITUDE;SECCHI_DEPTH;ACOUSTIC_DEPTH;REPLICATE_DESC;TEMPERATURE;SALINITY;SAMPLE_DEPTH;CHL_A;TRICHODESMIUM
+Outside Pioneer Bay;Whitsundays;43;24/1/06 10:50;-20.2425;148.71389;7;;A1;;;;1.0535;Absent
+Outside Pioneer Bay;Whitsundays;43;24/1/06 10:50;-20.2425;148.71389;7;;A2;;;;0.94815;Absent
+Outside Pioneer Bay;Whitsundays;43;24/1/06 10:50;-20.2425;148.71389;7;;B1;;;;1.11069;Absent
+Outside Pioneer Bay;Whitsundays;43;24/1/06 10:50;-20.2425;148.71389;7;;B2;;;;1.04146;Absent
+Cid Island;Whitsundays;86;24/1/06 10:05;-20.253083;148.91419;8;;A1;;;;0.41839;Absent
+Cid Island;Whitsundays;86;24/1/06 10:05;-20.253083;148.91419;8;;A2;;;;0.64113;Absent
+Cid Island;Whitsundays;86;24/1/06 10:05;-20.253083;148.91419;8;;B1;;;;0.57491;Absent
+Cid Island;Whitsundays;86;24/1/06 10:05;-20.253083;148.91419;8;;B2;;;;0.48461;Absent
+Henning;Whitsundays;88;24/1/06 9:40;-20.311333;148.927;8;;A1;;;;0.94213;Absent
+Henning;Whitsundays;88;24/1/06 9:40;-20.311333;148.927;8;;A2;;;;0.90601;Absent
+Henning;Whitsundays;88;24/1/06 9:40;-20.311333;148.927;8;;B1;;;;0.76755;Absent
+Henning;Whitsundays;88;24/1/06 9:40;-20.311333;148.927;8;;B2;;;;0.79765;Absent

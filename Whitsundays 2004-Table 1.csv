@@ -1,0 +1,72 @@
+STATION_NAME;TRANSECT;STATION_ID;SAMPLE_TIME;LATITUDE;LONGITUDE;SECCHI_DEPTH;ACOUSTIC_DEPTH;REPLICATE_DESC;TEMPERATURE;SALINITY;SAMPLE_DEPTH;CHL_A;TRICHODESMIUM
+Outside Pioneer Bay;Whitsundays;43;12/11/04 14:09;-20.2425;148.71389;4.5;;A1;;;;0.41762;Absent
+Outside Pioneer Bay;Whitsundays;43;12/11/04 14:09;-20.2425;148.71389;4.5;;A2;;;;0.52438;Absent
+Outside Pioneer Bay;Whitsundays;43;12/11/04 14:09;-20.2425;148.71389;4.5;;B1;;;;0.53694;Absent
+Outside Pioneer Bay;Whitsundays;43;12/11/04 14:09;-20.2425;148.71389;4.5;;B2;;;;0.52752;Absent
+Cid Island;Whitsundays;86;12/11/04 12:50;-20.253083;148.91419;5;;A1;;;;0.23236;Absent
+Cid Island;Whitsundays;86;12/11/04 12:50;-20.253083;148.91419;5;;A2;;;;0.29516;Absent
+Cid Island;Whitsundays;86;12/11/04 12:50;-20.253083;148.91419;5;;B1;;;;0.36424;Absent
+Cid Island;Whitsundays;86;12/11/04 12:50;-20.253083;148.91419;5;;B2;;;;0.35482;Absent
+Henning;Whitsundays;88;12/11/04 11:18;-20.311333;148.927;;;A1;;;;0.3768;Absent
+Henning;Whitsundays;88;12/11/04 11:18;-20.311333;148.927;;;A2;;;;0.3768;Absent
+Henning;Whitsundays;88;12/11/04 11:18;-20.311333;148.927;;;B1;;;;0.33284;Absent
+Henning;Whitsundays;88;12/11/04 11:18;-20.311333;148.927;;;B2;;;;0.43646;Absent
+Outside Pioneer Bay;Whitsundays;43;2/9/04 16:11;-20.2425;148.71389;;;A1;;;;0.3925;Absent
+Outside Pioneer Bay;Whitsundays;43;2/9/04 16:11;-20.2425;148.71389;;;A2;;;;0.4553;Absent
+Outside Pioneer Bay;Whitsundays;43;2/9/04 16:11;-20.2425;148.71389;;;B1;;;;0.38622;Absent
+Outside Pioneer Bay;Whitsundays;43;2/9/04 16:11;-20.2425;148.71389;;;B2;;;;0.36738;Absent
+Whitehaven;Whitsundays;87;2/9/04 14:25;-20.292717;149.05436;3;;A1;;;;0.36424;
+Whitehaven;Whitsundays;87;2/9/04 14:25;-20.292717;149.05436;3;;A2;;;;0.34226;
+Whitehaven;Whitsundays;87;2/9/04 14:25;-20.292717;149.05436;3;;B1;;;;0.3297;
+Whitehaven;Whitsundays;87;2/9/04 14:25;-20.292717;149.05436;3;;B2;;;;0.2669;
+Cid Island;Whitsundays;86;2/9/04 10:55;-20.253083;148.91419;4;;A1;;;;0.27946;Absent
+Cid Island;Whitsundays;86;2/9/04 10:55;-20.253083;148.91419;4;;A2;;;;0.32656;Absent
+Cid Island;Whitsundays;86;2/9/04 10:55;-20.253083;148.91419;4;;B1;;;;0.32342;Absent
+Cid Island;Whitsundays;86;2/9/04 10:55;-20.253083;148.91419;4;;B2;;;;0.33284;Absent
+Whitehaven;Whitsundays;87;5/8/04 12:05;-20.292717;149.05436;5;;A1;;;;0.37052;Absent
+Whitehaven;Whitsundays;87;5/8/04 12:05;-20.292717;149.05436;5;;A2;;;;0.39564;Absent
+Whitehaven;Whitsundays;87;5/8/04 12:05;-20.292717;149.05436;5;;B1;;;;0.29516;Absent
+Whitehaven;Whitsundays;87;5/8/04 12:05;-20.292717;149.05436;5;;B2;;;;0.27004;Absent
+Cid Island;Whitsundays;86;5/8/04 10:25;-20.253083;148.91419;3;;A1;;;;0.30458;Absent
+Cid Island;Whitsundays;86;5/8/04 10:25;-20.253083;148.91419;3;;A2;;;;0.31086;Absent
+Cid Island;Whitsundays;86;5/8/04 10:25;-20.253083;148.91419;3;;B1;;;;0.31086;Absent
+Cid Island;Whitsundays;86;5/8/04 10:25;-20.253083;148.91419;3;;B2;;;;0.29516;Absent
+Outside Pioneer Bay;Whitsundays;43;5/8/04 9:50;-20.2425;148.71389;5;;A1;;;;0.75046;Absent
+Outside Pioneer Bay;Whitsundays;43;5/8/04 9:50;-20.2425;148.71389;5;;A2;;;;0.33598;Absent
+Outside Pioneer Bay;Whitsundays;43;5/8/04 9:50;-20.2425;148.71389;5;;B1;;;;0.27318;Absent
+Outside Pioneer Bay;Whitsundays;43;5/8/04 9:50;-20.2425;148.71389;5;;B2;;;;0.32028;Absent
+Outside Pioneer Bay;Whitsundays;43;11/5/04 11:50;-20.2425;148.71389;2.5;;A1;;;;0.94828;Absent
+Outside Pioneer Bay;Whitsundays;43;11/5/04 11:50;-20.2425;148.71389;2.5;;A2;;;;0.62172;Absent
+Outside Pioneer Bay;Whitsundays;43;11/5/04 11:50;-20.2425;148.71389;2.5;;B1;;;;0.66882;Absent
+Outside Pioneer Bay;Whitsundays;43;11/5/04 11:50;-20.2425;148.71389;2.5;;B2;;;;0.5966;Absent
+Henning;Whitsundays;88;11/5/04 11:40;-20.311333;148.927;2.5;;A1;;;;0.65312;Absent
+Henning;Whitsundays;88;11/5/04 11:40;-20.311333;148.927;2.5;;A2;;;;0.3768;Absent
+Henning;Whitsundays;88;11/5/04 11:40;-20.311333;148.927;2.5;;B1;;;;0.59032;Absent
+Cid Island;Whitsundays;86;11/5/04 9:30;-20.253083;148.91419;2.5;;A1;;;;0.56834;Absent
+Cid Island;Whitsundays;86;11/5/04 9:30;-20.253083;148.91419;2.5;;A2;;;;0.60288;Absent
+Cid Island;Whitsundays;86;11/5/04 9:30;-20.253083;148.91419;2.5;;B1;;;;0.4867;Absent
+Cid Island;Whitsundays;86;11/5/04 9:30;-20.253083;148.91419;2.5;;B2;;;;0.68452;Absent
+Henning;Whitsundays;88;11/2/04 12:10;-20.311333;148.927;;;A1;;;;0.50868;Absent
+Henning;Whitsundays;88;11/2/04 12:10;-20.311333;148.927;;;A2;;;;0.49926;Absent
+Henning;Whitsundays;88;11/2/04 12:10;-20.311333;148.927;;;B1;;;;0.49298;Absent
+Henning;Whitsundays;88;11/2/04 12:10;-20.311333;148.927;;;B2;;;;0.49926;Absent
+Cid Island;Whitsundays;86;11/2/04 11:05;-20.253083;148.91419;;;A1;;;;0.34226;Absent
+Cid Island;Whitsundays;86;11/2/04 11:05;-20.253083;148.91419;;;A2;;;;0.33912;Absent
+Cid Island;Whitsundays;86;11/2/04 11:05;-20.253083;148.91419;;;B1;;;;0.61544;Absent
+Cid Island;Whitsundays;86;11/2/04 11:05;-20.253083;148.91419;;;B2;;;;0.35482;Absent
+Outside Pioneer Bay;Whitsundays;43;11/2/04 10:15;-20.2425;148.71389;;;A1;;;;0.47728;Absent
+Outside Pioneer Bay;Whitsundays;43;11/2/04 10:15;-20.2425;148.71389;;;A2;;;;0.53694;Absent
+Outside Pioneer Bay;Whitsundays;43;11/2/04 10:15;-20.2425;148.71389;;;B1;;;;0.51496;Absent
+Outside Pioneer Bay;Whitsundays;43;11/2/04 10:15;-20.2425;148.71389;;;B2;;;;0.43018;Absent
+Henning;Whitsundays;88;8/1/04 14:25;-20.311333;148.927;4;;A1;;;;0.52891;Absent
+Henning;Whitsundays;88;8/1/04 14:25;-20.311333;148.927;4;;A2;;;;0.57085;Absent
+Henning;Whitsundays;88;8/1/04 14:25;-20.311333;148.927;4;;B1;;;;0.588558;Absent
+Henning;Whitsundays;88;8/1/04 14:25;-20.311333;148.927;4;;B2;;;;0.555472;Absent
+Cid Island;Whitsundays;86;8/1/04 11:00;-20.253083;148.91419;4;;A1;;;;0.61512;Absent
+Cid Island;Whitsundays;86;8/1/04 11:00;-20.253083;148.91419;4;;A2;;;;0.503746;Absent
+Cid Island;Whitsundays;86;8/1/04 11:00;-20.253083;148.91419;4;;B1;;;;1.636592;Absent
+Cid Island;Whitsundays;86;8/1/04 11:00;-20.253083;148.91419;4;;B2;;;;0.490698;Absent
+Outside Pioneer Bay;Whitsundays;43;8/1/04 10:00;-20.2425;148.71389;5;;A1;;;;0.317812;Absent
+Outside Pioneer Bay;Whitsundays;43;8/1/04 10:00;-20.2425;148.71389;5;;A2;;;;0.30523;Absent
+Outside Pioneer Bay;Whitsundays;43;8/1/04 10:00;-20.2425;148.71389;5;;B1;;;;0.325268;Absent
+Outside Pioneer Bay;Whitsundays;43;8/1/04 10:00;-20.2425;148.71389;5;;B2;;;;0.399828;Absent
